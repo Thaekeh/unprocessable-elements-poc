@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="Title 1">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{4985DBEC-9999-8341-A299-5E153E5E11E7}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="724628" y="1757062"/>
+            <a:ext cx="10515600" cy="553652"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="Text Placeholder 2">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{96077A04-EB23-1F48-BB4D-4E0D6AF3CF62}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="839788" y="5116608"/>
+            <a:ext cx="6311019" cy="823912"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="Content Placeholder 3">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{54504973-D8A1-9C45-818F-6523A335CA71}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="839788" y="3071306"/>
+            <a:ext cx="5334980" cy="1827164"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="18" name="Content Placeholder 3">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{B52FA2C1-7527-BE4D-A762-1D5F69935B43}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="839788" y="6055822"/>
+            <a:ext cx="10515600" cy="653753"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="19" name="Title 1">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{F5115E3F-D327-164E-AB73-F884E7AD592A}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="740638" y="1460544"/>
+            <a:ext cx="10515600" cy="229370"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="12" name="Straight Connector 11">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2E8EAFFA-1607-7640-925B-73B31E758DFD}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvCxnSpPr>
+            <a:cxnSpLocks/>
+          </p:cNvCxnSpPr>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="825287" y="0"/>
+            <a:ext cx="0" cy="6858000"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln>
+            <a:solidFill>
+              <a:srgbClr val="948BE3">
+                <a:alpha val="41000"/>
+              </a:srgbClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="13" name="Straight Connector 12">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{930EF4ED-BA4F-B84B-81AC-F1F567928F53}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvCxnSpPr>
+            <a:cxnSpLocks/>
+          </p:cNvCxnSpPr>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="11339897" y="0"/>
+            <a:ext cx="0" cy="6858000"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln>
+            <a:solidFill>
+              <a:srgbClr val="948BE3">
+                <a:alpha val="41000"/>
+              </a:srgbClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="14" name="Straight Connector 13">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{04C68712-FE72-8B42-B945-6FE1FF7A846E}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvCxnSpPr>
+            <a:cxnSpLocks/>
+          </p:cNvCxnSpPr>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="964692"/>
+            <a:ext cx="12192000" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln>
+            <a:solidFill>
+              <a:srgbClr val="948BE3">
+                <a:alpha val="41000"/>
+              </a:srgbClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="17" name="Straight Connector 16">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{CEB64AC7-A192-244A-B18F-F5CAE4ABD8B5}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvCxnSpPr>
+            <a:cxnSpLocks/>
+          </p:cNvCxnSpPr>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="5893308"/>
+            <a:ext cx="12192000" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln>
+            <a:solidFill>
+              <a:srgbClr val="948BE3">
+                <a:alpha val="41000"/>
+              </a:srgbClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="35" name="Straight Connector 34">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{44FB3942-2251-CC42-972B-8763B16B14FD}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvCxnSpPr>
+            <a:cxnSpLocks/>
+          </p:cNvCxnSpPr>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="2148488"/>
+            <a:ext cx="12192000" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="line">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:ln>
+            <a:solidFill>
+              <a:srgbClr val="948BE3">
+                <a:alpha val="41000"/>
+              </a:srgbClr>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="tx1"/>
+          </a:fontRef>
+        </p:style>
+      </p:cxnSp>
+      <p:pic/>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="1549828575"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>
